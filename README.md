@@ -1,4 +1,4 @@
-Django E-commerce Store
+Django E-commerce-store
 ----------------------
 This project is a simple e-commerce website built using Django, featuring products listing, product details, and checkout functionality.
 
